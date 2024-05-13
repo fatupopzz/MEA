@@ -1,0 +1,8 @@
+nombre,contrasena,notas
+
+ola,oo
+ola,oo,pepe
+ola,oo,['hola']
+ola,oo,pepe
+ola,oo,"['hola', 'pepe']"
+ola,oo,pepe
